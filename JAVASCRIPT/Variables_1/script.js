@@ -99,6 +99,7 @@ let fahrenheit = (celcius * 1.8) + 32
 console.log("The Fahrenheit is = ", fahrenheit + "F");
 
 // Q.15 Write a program to convert kilometers to meters.
+
 // Q.16 Write a program to calculate Simple Interest.
 // Q.17 Write a program to calculate the perimeter of a rectangle.
 // Q.18 Write a program to calculate the total bill of five items.
