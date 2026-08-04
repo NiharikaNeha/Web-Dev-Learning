@@ -104,6 +104,12 @@ let meter_value = kilometer_value * 1000;
 console.log("The Following Meter Value Is:", meter_value + " meter");
 
 // Q.16 Write a program to calculate Simple Interest.
+let principal = 1000;
+let rate = 7;
+let time = 3;
+const simple_interest = principal * rate * time / 100
+console.log("The S.I will be: ", simple_interest);
+
 // Q.17 Write a program to calculate the perimeter of a rectangle.
 // Q.18 Write a program to calculate the total bill of five items.
 // Q.19 Create variables for principal, rate, and time, then calculate Simple Interest.
