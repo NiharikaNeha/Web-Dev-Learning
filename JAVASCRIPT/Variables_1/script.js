@@ -94,6 +94,10 @@ let num5 = 10;
 console.log("The Product Of num3, num4 and num5 is = ", num3 * num4 * num5);
 
 // Q.14 Write a program to convert Celsius to Fahrenheit using variables.
+let celcius = 10;
+let fahrenheit = (celcius * 1.8) + 32
+console.log("The Fahrenheit is = ", fahrenheit + "F");
+
 // Q.15 Write a program to convert kilometers to meters.
 // Q.16 Write a program to calculate Simple Interest.
 // Q.17 Write a program to calculate the perimeter of a rectangle.
