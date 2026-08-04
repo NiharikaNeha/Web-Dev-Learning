@@ -88,6 +88,10 @@ let sum = num1 + num2;
 console.log("The Sum Of num1 and num2 = ", sum);
 
 // Q.13 Write a program to calculate the product of three numbers.
+let num3 = 10;
+let num4 = 10;
+let num5 = 10;
+console.log("The Product Of num3, num4 and num5 is = ", num3 * num4 * num5)
 // Q.14 Write a program to convert Celsius to Fahrenheit using variables.
 // Q.15 Write a program to convert kilometers to meters.
 // Q.16 Write a program to calculate Simple Interest.
