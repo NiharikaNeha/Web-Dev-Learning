@@ -77,7 +77,7 @@ console.log("I Live In :", city1);
 let student_data = {
   student_name: "Neha Niharikha Swain",
   roll_number: 2601030035,
-  percentage: 75
+  percentage: 75,
 };
 console.log(student_data);
 
@@ -95,7 +95,7 @@ console.log("The Product Of num3, num4 and num5 is = ", num3 * num4 * num5);
 
 // Q.14 Write a program to convert Celsius to Fahrenheit using variables.
 let celcius = 10;
-let fahrenheit = (celcius * 1.8) + 32
+let fahrenheit = celcius * 1.8 + 32;
 console.log("The Fahrenheit is = ", fahrenheit + "F");
 
 // Q.15 Write a program to convert kilometers to meters.
@@ -107,10 +107,16 @@ console.log("The Following Meter Value Is:", meter_value + " meter");
 let principal = 1000;
 let rate = 7;
 let time = 3;
-const simple_interest = principal * rate * time / 100
+const simple_interest = (principal * rate * time) / 100;
 console.log("The S.I will be: ", simple_interest);
 
 // Q.17 Write a program to calculate the perimeter of a rectangle.
+let l = 20;
+let w = 10;
+const perimeter = 2 * (l + b);
+console.log(
+  "The Perimeter Of A Rectangle:", perimeter);
+
 // Q.18 Write a program to calculate the total bill of five items.
 // Q.19 Create variables for principal, rate, and time, then calculate Simple Interest.
 // Q.20 Create variables for your favorite mo   vie and actor, then print:
