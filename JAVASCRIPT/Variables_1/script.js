@@ -80,7 +80,13 @@ let student_data = {
   percentage: 75
 };
 console.log(student_data);
+
 // Q.12 Write a program to calculate the sum of two numbers using variables.
+let num1 = 75;
+let num2 = 57;
+let sum = num1 + num2;
+console.log("The Sum Of num1 and num2 = ", sum);
+
 // Q.13 Write a program to calculate the product of three numbers.
 // Q.14 Write a program to convert Celsius to Fahrenheit using variables.
 // Q.15 Write a program to convert kilometers to meters.
