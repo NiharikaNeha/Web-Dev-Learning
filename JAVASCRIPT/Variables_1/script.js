@@ -1,0 +1,91 @@
+// Variables
+// Q.1 Create two variables a = 10 and b = 20. Print their sum.
+let a = 10;
+let b = 20;
+console.log("The Sum Of a + b = ", a + b);
+
+// Q.2 Store the price of a book in a variable and print it.
+let price = 1200;
+console.log("The Price of the book is ₹" + price);
+
+// Q.3 Create variables for your first name and last name, then print your full name.
+const First_Name = "Neha";
+const Middle_Name = "Niharika";
+const Last_Name = "Swain";
+console.log("My Name is:", First_Name + " " + Middle_Name + " " + Last_Name);
+
+// Q.4 Swap the values of two variables without using a third variable.
+let r = 75;
+let n = 57;
+console.log("Before Swapping:");
+console.log("r = ", r);
+console.log("n = ", n);
+
+r = r + n;
+n = r - n;
+r = r - n;
+console.log("After Swapping:");
+console.log("r = ", r);
+console.log("n = ", n);
+
+// Q.5 Store the radius of a circle and calculate its area.
+let radius = 10;
+let area1 = 3.14 * radius ** 2;
+console.log("The Area Of The Circle = ", area1);
+
+// Q.6 Store the length and width of a rectangle and calculate the area.
+let length = 120;
+let width = 10;
+let area2 = length * width;
+console.log(
+  "The Value Of Length = ",
+  length + " " + "The Value Of Width = ",
+  width,
+);
+console.log("The Area Of The Rectangle is", area2);
+
+// Q.7 Store the marks of three subjects and calculate the average.
+let subject1 = 10;
+let subject2 = 20;
+let subject3 = 30;
+
+let average = (subject1 + subject2 + subject3) / 3;
+
+console.log("Subject 1 Marks =", subject1);
+console.log("Subject 2 Marks =", subject2);
+console.log("Subject 3 Marks =", subject3);
+console.log("Average Marks =", average);
+
+// Q.8 Create a variable called isStudent and assign true. Print it.
+let isStudent = true;
+console.log(isStudent);
+
+// Q.9 Store your city name in a variable and display a welcome message.
+let city = "Bhubaneswar";
+console.log("Welcome To The Temple City:", city);
+
+// Q.10 Declare multiple variables in one line.
+let name = "Neha",
+  age = 19,
+  city1 = "Bhubaneswar";
+
+console.log("My Name Is:", name);
+console.log("My Age Is:", age);
+console.log("I Live In :", city1);
+
+// Q.11 Create variables to store a student's name, roll number, and percentage.
+let student_data = {
+  student_name: "Neha Niharikha Swain",
+  roll_number: 2601030035,
+  percentage: 75
+};
+console.log(student_data);
+// Q.12 Write a program to calculate the sum of two numbers using variables.
+// Q.13 Write a program to calculate the product of three numbers.
+// Q.14 Write a program to convert Celsius to Fahrenheit using variables.
+// Q.15 Write a program to convert kilometers to meters.
+// Q.16 Write a program to calculate Simple Interest.
+// Q.17 Write a program to calculate the perimeter of a rectangle.
+// Q.18 Write a program to calculate the total bill of five items.
+// Q.19 Create variables for principal, rate, and time, then calculate Simple Interest.
+// Q.20 Create variables for your favorite mo   vie and actor, then print:
