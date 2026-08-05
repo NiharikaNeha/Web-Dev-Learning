@@ -118,10 +118,8 @@ console.log(
   "The Perimeter Of A Rectangle:", perimeter);
 
 // Q.18 Write a program to calculate the total bill of five items.
-let tshirt = 200;
-let jeans = 400;
-let belt = 100;
-const total_amount = ((200 + 400) * 2 + 100) * 5
-console.log("The Total Bill is:", total_amount)
+let items = [200, 400, 100, 100, 1000];
+const totalBill = items[0] + items[1] + items[2] + items[3] + items[4];
+console.log("The Total Bill is:", totalBill)
 // Q.19 Create variables for principal, rate, and time, then calculate Simple Interest.
 // Q.20 Create variables for your favorite mo   vie and actor, then print:
