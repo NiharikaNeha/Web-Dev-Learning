@@ -128,4 +128,9 @@ let t = 4;
 const SI = (p * ra * t) / 100;
 console.log("The S.I will be: ", SI);
 
-// Q.20 Create variables for your favorite mo   vie and actor, then print:
+// Q.20 Create variables for your favorite movie and actor, then print:
+let movie = "Harry Potter";
+let actoress = "Emma Watson";
+console.log("===========================================================================");
+console.log("My Favorite Movie Is: " + movie + " And Favorite Actoress Is :" + actoress);
+console.log("===========================================================================");
