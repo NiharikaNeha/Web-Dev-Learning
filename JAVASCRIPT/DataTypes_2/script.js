@@ -4,8 +4,8 @@ let num = "100";
 console.log(typeof(Number(num)));
 
 // Q.2 Convert 500 into a string.
-let num = "100";
-console.log(typeof(Number(num)));
+let num2 = 500;
+console.log(typeof(String(num2)));
 
 // Q.3 Convert "true" into a boolean.
 let num = "100";
