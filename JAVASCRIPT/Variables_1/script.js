@@ -122,4 +122,10 @@ let items = [200, 400, 100, 100, 1000];
 const totalBill = items[0] + items[1] + items[2] + items[3] + items[4];
 console.log("The Total Bill is:", totalBill)
 // Q.19 Create variables for principal, rate, and time, then calculate Simple Interest.
+let p = 1000;
+let ra = 6;
+let t = 4;
+const SI = (p * ra * t) / 100;
+console.log("The S.I will be: ", SI);
+
 // Q.20 Create variables for your favorite mo   vie and actor, then print:
