@@ -8,8 +8,8 @@ let num2 = 500;
 console.log(typeof(String(num2)));
 
 // Q.3 Convert "true" into a boolean.
-let num = "100";
-console.log(typeof(Number(num)));
+let num3 = "true";
+console.log(typeof(Boolean(num3)));
 
 // Q.4 Convert 1 into a boolean.
 let num = "100";
