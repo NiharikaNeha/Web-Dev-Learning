@@ -131,6 +131,6 @@ console.log("The S.I will be: ", SI);
 // Q.20 Create variables for your favorite movie and actor, then print:
 let movie = "Harry Potter";
 let acteress = "Emma Watson";
-console.log("==========================================================================");
+console.log("===========================================================================");
 console.log("My Favorite Movie Is: " + movie + " And Favorite Acteress Is :" + acteress);
 console.log("===========================================================================");
