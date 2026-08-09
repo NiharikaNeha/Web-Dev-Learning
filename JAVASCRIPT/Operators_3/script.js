@@ -108,3 +108,6 @@ console.log(10 < 5);
 
 // Q.22
 console.log(10 == "10");
+
+// Q.23
+console.log(10 === "10");
