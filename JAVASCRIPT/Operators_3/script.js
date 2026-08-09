@@ -144,3 +144,8 @@ console.log(!true);
 
 // Q.34
 console.log(!false);
+
+// Q.35
+let age = 20;
+
+console.log(age >= 18 && age <= 60);
