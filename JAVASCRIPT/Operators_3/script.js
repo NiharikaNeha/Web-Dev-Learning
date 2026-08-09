@@ -93,3 +93,9 @@ let x5 = 17;
 x5 %= 5;
 
 console.log(x5);
+
+// Q.19
+let x6 = 2;
+x6 **= 3;
+
+console.log(x6);
