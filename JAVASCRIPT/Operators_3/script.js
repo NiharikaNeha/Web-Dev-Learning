@@ -25,7 +25,7 @@ console.log(5 + 3 * 2 ** 2);
 console.log(10 == "10");
 console.log(10 === "10");
 
-// Q.6 
+// Q.6
 let a1 = 10;
 let b1 = 3;
 
@@ -161,7 +161,7 @@ console.log(result);
 let num = -75;
 let result1 = num > 0 ? "The Number Is Positive" : "The Number Is Negative";
 
-console.log(result1); 
+console.log(result1);
 
 // Q.38 Write a ternary operator to check whether a number is even or odd.
 let num2 = 24;
@@ -174,3 +174,15 @@ let marks = 75;
 let result3 = marks > 33 ? "The Student Is Passed" : "The Student Is Failed";
 
 console.log(result3);
+
+// Q.40 Write a ternary operator to find the greater of two numbers.
+let num3 = 75;
+let num4 = -75;
+let compare =
+  num3 > num4
+    ? "The Number Is Greater"
+    : num3 < num4
+      ? "The Number Is Smaller"
+      : "The Numbers Are Equal";
+
+console.log(compare);
