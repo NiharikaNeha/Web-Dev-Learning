@@ -168,3 +168,9 @@ let num2 = 24;
 let result2 = num2 % 2 == 0 ? "The Number Is Even" : "The Number Is Odd";
 
 console.log(result2);
+
+// Q.39 Write a ternary operator to check whether a student has passed or failed.
+let marks = 75;
+let result3 = marks > 33 ? "The Student Is Passed" : "The Student Is Failed";
+
+console.log(result3);
