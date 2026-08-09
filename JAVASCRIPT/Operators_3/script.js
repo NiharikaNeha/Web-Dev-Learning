@@ -142,3 +142,5 @@ console.log(false || false);
 // Q.33
 console.log(!true);
 
+// Q.34
+console.log(!false);
