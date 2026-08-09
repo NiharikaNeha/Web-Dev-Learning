@@ -54,3 +54,6 @@ let a5 = 17;
 let b5 = 5;
 
 console.log(a5 % b5);
+
+// Q.11
+console.log(2 ** 3);
