@@ -77,7 +77,13 @@ x2 -= 8;
 console.log(x2);
 
 // Q.16
-let x = 5;
-x *= 4;
+let x3 = 5;
+x3 *= 4;
 
-console.log(x);
+console.log(x3);
+
+// Q.17
+let x4 = 20;
+x4 /= 5;
+
+console.log(x4);
