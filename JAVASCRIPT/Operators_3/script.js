@@ -151,8 +151,14 @@ let age = 20;
 console.log(age >= 18 && age <= 60);
 
 // Q.36
-let age = 20;
+let age1 = 20;
 
-let result = age >= 18 ? "Adult" : "Minor";
+let result = age1 >= 18 ? "Adult" : "Minor";
 
 console.log(result);
+
+// Q.37 Write a ternary operator to check whether a number is positive or negative.
+let num = -75;
+let result1 = num > 0 ? "The Number Is Positive" : "The Number Is Negative";
+
+console.log(result1);
