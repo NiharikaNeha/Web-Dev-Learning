@@ -99,3 +99,12 @@ let x6 = 2;
 x6 **= 3;
 
 console.log(x6);
+
+// Q.20
+console.log(10 > 5);
+
+// Q.21
+console.log(10 < 5);
+
+// Q.22
+console.log(10 == "10");
