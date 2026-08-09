@@ -162,3 +162,9 @@ let num = -75;
 let result1 = num > 0 ? "The Number Is Positive" : "The Number Is Negative";
 
 console.log(result1); 
+
+// Q.38 Write a ternary operator to check whether a number is even or odd.
+let num2 = 24;
+let result2 = num2 % 2 == 0 ? "The Number Is Even" : "The Number Is Odd";
+
+console.log(result2);
