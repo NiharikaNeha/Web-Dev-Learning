@@ -57,3 +57,6 @@ console.log(a5 % b5);
 
 // Q.11
 console.log(2 ** 3);
+
+// Q.12
+console.log(10 + 5 * 2);
