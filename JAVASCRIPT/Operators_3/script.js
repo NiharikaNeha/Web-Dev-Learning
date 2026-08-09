@@ -75,3 +75,9 @@ let x2 = 20;
 x2 -= 8;
 
 console.log(x2);
+
+// Q.16
+let x = 5;
+x *= 4;
+
+console.log(x);
