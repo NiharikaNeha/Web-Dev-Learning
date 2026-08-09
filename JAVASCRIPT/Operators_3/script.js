@@ -149,3 +149,10 @@ console.log(!false);
 let age = 20;
 
 console.log(age >= 18 && age <= 60);
+
+// Q.36
+let age = 20;
+
+let result = age >= 18 ? "Adult" : "Minor";
+
+console.log(result);
