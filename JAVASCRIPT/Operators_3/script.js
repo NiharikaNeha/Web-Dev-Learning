@@ -132,3 +132,9 @@ console.log(true && true);
 
 // Q.30
 console.log(true && false);
+
+// Q.31
+console.log(false || true);
+
+// Q.32
+console.log(false || false);
