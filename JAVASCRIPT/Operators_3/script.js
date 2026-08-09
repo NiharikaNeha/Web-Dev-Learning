@@ -10,13 +10,13 @@ let r = 10;
 console.log(r++ + r++);
 
 // Q.3
-let a = 10;
+let N = 10;
 
-a += 5;
-a -= 3;
-a *= 2;
+N += 5;
+N -= 3;
+N *= 2;
 
-console.log(a);
+console.log(N);
 
 // Q.4
 console.log(5 + 3 * 2 ** 2);
@@ -31,8 +31,20 @@ let b1 = 3;
 
 console.log(a1 + b1);
 
-// Q..7
+// Q.7
 let a2 = 10;
 let b2 = 3;
 
 console.log(a2 + b2);
+
+// Q.8
+let a3 = 6;
+let b3 = 4;
+
+console.log(a3 * b3);
+
+// Q.9
+let a4 = 20;
+let b4 = 4;
+
+console.log(a4 / b4);
