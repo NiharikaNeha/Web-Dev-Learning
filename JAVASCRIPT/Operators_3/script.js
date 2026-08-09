@@ -138,3 +138,7 @@ console.log(false || true);
 
 // Q.32
 console.log(false || false);
+
+// Q.33
+console.log(!true);
+
