@@ -48,3 +48,9 @@ let a4 = 20;
 let b4 = 4;
 
 console.log(a4 / b4);
+
+// Q.10
+let a5 = 17;
+let b5 = 5;
+
+console.log(a5 % b5);
