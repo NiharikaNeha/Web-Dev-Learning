@@ -126,3 +126,6 @@ console.log(10 >= 10);
 
 // Q.28
 console.log(5 <= 3);
+
+// Q.29
+console.log(true && true);
