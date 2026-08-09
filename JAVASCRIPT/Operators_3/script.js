@@ -200,3 +200,11 @@ let total =
       : "Invalid";
 
 console.log(total);
+
+// Q.42 Write a program that checks whether a person can get a driving license based on:
+// Age ≥ 18
+// Has a valid learner's license
+let driving_age = 17;
+let license = driving_age >= 18 ? "Age Valid For Driving License" : "Invalid Age For License";
+
+console.log(license)
