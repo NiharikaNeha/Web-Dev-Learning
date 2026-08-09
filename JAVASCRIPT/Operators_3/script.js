@@ -63,3 +63,9 @@ console.log(10 + 5 * 2);
 
 // Q.13
 console.log((10 + 5) * 2);
+
+// Q.14
+let x1 = 10;
+x1 += 5;
+
+console.log(x1);
