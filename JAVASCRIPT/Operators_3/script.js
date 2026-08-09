@@ -161,4 +161,4 @@ console.log(result);
 let num = -75;
 let result1 = num > 0 ? "The Number Is Positive" : "The Number Is Negative";
 
-console.log(result1);
+console.log(result1); 
