@@ -26,7 +26,13 @@ console.log(10 == "10");
 console.log(10 === "10");
 
 // Q.6 
-let a = 10;
-let b = 3;
+let a1 = 10;
+let b1 = 3;
 
-console.log(a + b);
+console.log(a1 + b1);
+
+// Q..7
+let a2 = 10;
+let b2 = 3;
+
+console.log(a2 + b2);
