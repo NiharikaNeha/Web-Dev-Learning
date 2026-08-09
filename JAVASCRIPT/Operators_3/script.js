@@ -17,3 +17,6 @@ a -= 3;
 a *= 2;
 
 console.log(a);
+
+// Q.4
+console.log(5 + 3 * 2 ** 2);
