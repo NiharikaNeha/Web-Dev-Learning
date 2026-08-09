@@ -69,3 +69,9 @@ let x1 = 10;
 x1 += 5;
 
 console.log(x1);
+
+// Q.15
+let x2 = 20;
+x2 -= 8;
+
+console.log(x2);
