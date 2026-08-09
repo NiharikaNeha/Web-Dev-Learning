@@ -111,3 +111,18 @@ console.log(10 == "10");
 
 // Q.23
 console.log(10 === "10");
+
+// Q.24
+console.log(10 != 5);
+
+// Q.25
+console.log(10 != 5);
+
+// Q.26
+console.log(10 !== "10");
+
+// Q.27
+console.log(10 >= 10);
+
+// Q.28
+console.log(5 <= 3);
