@@ -60,3 +60,6 @@ console.log(2 ** 3);
 
 // Q.12
 console.log(10 + 5 * 2);
+
+// Q.13
+console.log((10 + 5) * 2);
