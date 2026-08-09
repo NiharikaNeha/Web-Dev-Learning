@@ -186,3 +186,17 @@ let compare =
       : "The Numbers Are Equal";
 
 console.log(compare);
+
+// Q.41 Write a program that accepts three marks and checks whether all three subjects are passed using &&.
+let sub1 = 75;
+let sub2 = 57;
+let sub3 = 50;
+
+let total =
+  sub1 && sub2 > 33
+    ? "The Student Is Fully Passed"
+    : sub2 && sub3 > 33
+      ? "The Is Student Is Failed"
+      : "Invalid";
+
+console.log(total);
