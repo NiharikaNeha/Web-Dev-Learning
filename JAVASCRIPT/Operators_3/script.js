@@ -87,3 +87,9 @@ let x4 = 20;
 x4 /= 5;
 
 console.log(x4);
+
+// Q.18
+let x5 = 17;
+x5 %= 5;
+
+console.log(x5);
