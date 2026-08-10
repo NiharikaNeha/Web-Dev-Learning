@@ -207,4 +207,4 @@ console.log(total);
 let driving_age = 17;
 let license = driving_age >= 18 ? "Age Valid For Driving License" : "Invalid Age For License";
 
-console.log(license);
+console.log(license);  
