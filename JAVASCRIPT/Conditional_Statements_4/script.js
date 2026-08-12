@@ -9,3 +9,9 @@ let num1 = -70;
 if (num1 <= 0) {
     console.log("The Number Is Negative.");
 };
+
+// Q.3 Check whether a person is 18 or older.
+let num2 = 19;
+if (num2 >= 18) {
+    console.log("The Person Is Eligible For Vote.");
+};
