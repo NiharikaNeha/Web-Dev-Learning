@@ -43,5 +43,5 @@ if (num6 % 2 === 0) {
 // Q.8 Check whether a person is eligible to vote.
 let num7 = 20;
 if (num7 >= 18) {
-    console.log("The Person Is Eligible TO Vote.")
-}
+    console.log("The Person Is Eligible TO Vote.");
+};
