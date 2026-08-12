@@ -24,6 +24,12 @@ if (num3 >= 40) {
 
 // Q.5 Check whether a number is greater than 100.
 let num4 = 75;
-if (num3 > 100) {
+if (num4 > 100) {
     console.log("The Number Is Greater Than 100.");
 };
+
+// Q.6 Check whether a number is divisible by 5.
+let num5 = 75;
+if (num5 % 5 === 0) {
+    console.log("The Number Is Divisible By 5.")
+}
