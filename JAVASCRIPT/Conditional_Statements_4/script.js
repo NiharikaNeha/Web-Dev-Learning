@@ -15,3 +15,9 @@ let num2 = 19;
 if (num2 >= 18) {
     console.log("The Person Is Eligible For Vote.");
 };
+
+// Q.4 Check whether a student has scored more than 40 marks.
+let num3 = 75;
+if (num3 >= 40) {
+    console.log("The Student has Properly Passed.");
+};
