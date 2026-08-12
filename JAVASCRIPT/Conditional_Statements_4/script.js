@@ -21,3 +21,9 @@ let num3 = 75;
 if (num3 >= 40) {
     console.log("The Student has Properly Passed.");
 };
+
+// Q.5 Check whether a number is greater than 100.
+let num4 = 75;
+if (num3 > 100) {
+    console.log("The Number Is Greater Than 100.");
+};
