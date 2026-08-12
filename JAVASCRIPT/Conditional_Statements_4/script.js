@@ -33,3 +33,9 @@ let num5 = 75;
 if (num5 % 5 === 0) {
     console.log("The Number Is Divisible By 5.")
 }
+
+// Q.7 Check whether a number is even.
+let num6 =  75;
+if (num6 % 2 === 0) {
+    console.log("The Number Is Even.");
+};
