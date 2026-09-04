@@ -4,8 +4,15 @@
 // };
 // hello();
 
-//  Create a function that takes a name as a parameter and prints:
-function name(name = "Neha"){
-    console.log(`Hello, ${name}`)
+// Create a function that takes a name as a parameter and prints:
+// function name(name = "Neha"){
+//     console.log(`Hello, ${name}`)
+// }
+// name();
+
+// Create a function that takes two numbers and returns their sum.
+function sum(a, b) {
+  total = a + b;
+  console.log(`The Sum Of ${a} and ${b} = `, total);
 }
-name();
+sum(50, 10);
