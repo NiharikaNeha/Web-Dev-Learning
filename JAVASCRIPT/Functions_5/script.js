@@ -25,8 +25,15 @@
 // differ(50, 10);
 
 // Create a function that takes two numbers and returns their multiplication.
-function multiply(a, b) {
-  total = a * b;
-  console.log(`The Multiplication Of ${a} and ${b} = `, total);
+// function multiply(a, b) {
+//   total = a * b;
+//   console.log(`The Multiplication Of ${a} and ${b} = `, total);
+// }
+// multiply(50, 10);
+
+// Create a function that takes a number and returns its square.
+function double(a) {
+  total = a ** 2;
+  console.log(`The Square Of ${a} = `, total);
 }
-multiply(50, 10);
+double(500);
