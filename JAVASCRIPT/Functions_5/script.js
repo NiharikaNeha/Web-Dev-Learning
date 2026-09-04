@@ -18,8 +18,15 @@
 // sum(50, 10);
 
 // Create a function that takes two numbers and returns their difference.
-function differ(a, b) {
-  total = a - b;
-  console.log(`The Difference Of ${a} and ${b} = `, total);
+// function differ(a, b) {
+//   total = a - b;
+//   console.log(`The Difference Of ${a} and ${b} = `, total);
+// }
+// differ(50, 10);
+
+// Create a function that takes two numbers and returns their multiplication.
+function multiply(a, b) {
+  total = a * b;
+  console.log(`The Multiplication Of ${a} and ${b} = `, total);
 }
-differ(50, 10);
+multiply(50, 10);
