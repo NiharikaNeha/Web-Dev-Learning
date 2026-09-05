@@ -32,8 +32,21 @@
 // multiply(50, 10);
 
 // Create a function that takes a number and returns its square.
-function double(a) {
-  total = a ** 2;
-  console.log(`The Square Of ${a} = `, total);
+// function double(a) {
+//   total = a ** 2;
+//   console.log(`The Square Of ${a} = `, total);
+// }
+// double(500);
+
+// Create a function that takes a number and checks whether it is positive, negative, or zero.
+const checks = (num) => {
+    if (num > 0){
+        return(`${num} is a Positive Number.`);
+    }
+    else if (num < 0) {
+        return(`${num} is a Negative Number.`);
+    } else {
+        return(`${num} is Equal To Zero.`);
+    }
 }
-double(500);
+console.log(checks(0));
