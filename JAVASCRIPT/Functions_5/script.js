@@ -89,3 +89,22 @@
 // };
 
 // console.log(ageNum(30));
+
+// Create a function that takes marks and returns:
+// A → 90 or above
+// B → 75–89
+// C → 50–74
+// Fail → below 50
+// let marks = (num3) => {
+//   if (num3 >= 90) {
+//     return "Grade A";
+//   } else if (num3 >= 75 && num3 <= 89) {
+//     return "Grade B";
+//   } else if (num3 >= 50 && num3 <= 74) {
+//     return "Grade C";
+//   } else {
+//     return "Fail";
+//   }
+// };
+
+// console.log(marks(100));
