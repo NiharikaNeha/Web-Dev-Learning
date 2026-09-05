@@ -76,16 +76,16 @@
 // "Child" if age < 13
 // "Teenager" if age is 13–19
 // "Adult" if age >= 20
-let ageNum = (age) => {
-  if (age < 13) {
-    return "He/She Is A Child.";
-  } else if (age >= 13 && age <= 19) {
-    return "He/She Is A Teenager";
-  } else if (age >= 20) {
-    return "He/She Is An Adult";
-  } else {
-    return "Invalid Age. Try Again Later!";
-  }
-};
+// let ageNum = (age) => {
+//   if (age < 13) {
+//     return "He/She Is A Child.";
+//   } else if (age >= 13 && age <= 19) {
+//     return "He/She Is A Teenager";
+//   } else if (age >= 20) {
+//     return "He/She Is An Adult";
+//   } else {
+//     return "Invalid Age. Try Again Later!";
+//   }
+// };
 
-console.log(ageNum(30));
+// console.log(ageNum(30));
