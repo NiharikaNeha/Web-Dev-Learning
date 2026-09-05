@@ -39,14 +39,25 @@
 // double(500);
 
 // Create a function that takes a number and checks whether it is positive, negative, or zero.
-const checks = (num) => {
-    if (num > 0){
-        return(`${num} is a Positive Number.`);
-    }
-    else if (num < 0) {
-        return(`${num} is a Negative Number.`);
-    } else {
-        return(`${num} is Equal To Zero.`);
-    }
-}
-console.log(checks(0));
+// const checks = (num) => {
+//     if (num > 0){
+//         return(`${num} is a Positive Number.`);
+//     }
+//     else if (num < 0) {
+//         return(`${num} is a Negative Number.`);
+//     } else {
+//         return(`${num} is Equal To Zero.`);
+//     }
+// }
+// console.log(checks(0));
+
+// Create a function that takes a number and checks whether it is even or odd.
+// let func = (num1) => {
+//   if (num1 % 2 == 0) {
+//     return `${num1} is a even number.`;
+//   } else {
+//     return `${num1} is a odd number.`;
+//   }
+// };
+
+// console.log(func(23));
