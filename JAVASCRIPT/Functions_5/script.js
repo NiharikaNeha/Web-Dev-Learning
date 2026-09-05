@@ -108,3 +108,13 @@
 // };
 
 // console.log(marks(100));
+
+// Create a function that takes two numbers and returns the greater number.
+// function number(a,b) {
+//     if (a > b) {
+//         return `${a} is greater than ${b}`
+//     } else {
+//         return `${b} is greater than ${a}`
+//     }
+// }
+// console.log(number(75,57))
