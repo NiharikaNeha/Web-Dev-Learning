@@ -71,3 +71,21 @@
 //     }
 // }
 // console.log(check(30))
+
+// Create a function that takes a person's age and returns:
+// "Child" if age < 13
+// "Teenager" if age is 13–19
+// "Adult" if age >= 20
+let ageNum = (age) => {
+  if (age < 13) {
+    return "He/She Is A Child.";
+  } else if (age >= 13 && age <= 19) {
+    return "He/She Is A Teenager";
+  } else if (age >= 20) {
+    return "He/She Is An Adult";
+  } else {
+    return "Invalid Age. Try Again Later!";
+  }
+};
+
+console.log(ageNum(30));
