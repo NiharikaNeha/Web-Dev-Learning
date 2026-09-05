@@ -61,3 +61,13 @@
 // };
 
 // console.log(func(23));
+
+// Create a function that takes a number and checks whether it is divisible by 5.
+// let check = (num2) => {
+//     if (num2 % 5 == 0) {
+//         return(`${num2} is divisible by 5`)
+//     } else {
+//         return(`${num2} is not divisible by 5`)
+//     }
+// }
+// console.log(check(30))
