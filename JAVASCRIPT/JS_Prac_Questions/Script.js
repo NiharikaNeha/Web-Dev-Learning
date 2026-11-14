@@ -34,3 +34,13 @@
 // let area = (base * height)/2;
 
 // console.log("The area of the triangle is: " + area);
+
+// Swapping two variables using temoprary variable
+let a = 5;
+let b = 20;
+let temp = a;
+a = b;
+b = temp;
+
+console.log("The values of a and b before swapping are: " + b + ", " + a);
+console.log("The values of a and b after swapping are: " + a + ", " + b);
