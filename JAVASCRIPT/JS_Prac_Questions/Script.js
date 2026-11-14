@@ -15,3 +15,9 @@ let b = 10;
 let sum  =  a + b;
 console.log("The sum of a and b is:", + sum);
 
+// Dynamic Numbers
+let a1 = parseInt(prompt("Enter the value of Number 1:"));
+let b1 = parseInt(prompt("Enter the value of Number 2:"));
+
+let sum1 = a1 + b1;
+console.log("The sum of a1 and b1 is:", + sum1);
