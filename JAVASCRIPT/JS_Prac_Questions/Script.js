@@ -28,3 +28,9 @@
 
 // console.log("The squareRoot of the number is:", + squareroot);
 
+// Calculating the area of a triangle
+let base = 10.5;
+let height = 2;
+let area = (base * height)/2;
+
+console.log("The area of the triangle is: " + area);
