@@ -21,3 +21,9 @@
 
 // let sum1 = a1 + b1;
 // console.log("The sum of a1 and b1 is:", + sum1);
+
+// Finding the square root of a number
+let num = parseInt(prompt("Enter your number for finding the squareroot:"));
+let squareroot = Math.sqrt(num);
+
+console.log("The squareRoot of the number is:", + squareroot);
