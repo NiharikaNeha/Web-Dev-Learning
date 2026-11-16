@@ -103,10 +103,10 @@
 // console.log("The random generated numbers are: " + num);
 
 // Checking if the number is even or odd
-let number = 0;
+// let number = 0;
 
-if (number % 2 == 0) {
-    console.log("The number is even");
-} else{
-    console.log("The number is odd");
-}
+// if (number % 2 == 0) {
+//     console.log("The number is even");
+// } else{
+//     console.log("The number is odd");
+// }
