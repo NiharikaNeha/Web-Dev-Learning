@@ -59,14 +59,14 @@
 
 // Converting Kilometer to Miles
 
-let kilometer = parseFloat(prompt("Enter your Kilometer value:"));
+// let kilometer = parseFloat(prompt("Enter your Kilometer value:"));
 
 // step - 1: by multiplying
-let miles = kilometer * 0.621371;
+// let miles = kilometer * 0.621371;
 
-console.log("The value of kilometer in miles is:" + miles);
+// console.log("The value of kilometer in miles is:" + miles);
 
 //step - 2: by dividling
-let miles1 = kilometer / 1.609344;
+// let miles1 = kilometer / 1.609344;
 
-console.log("The value of kilometer in miles is:" + miles1);
+// console.log("The value of kilometer in miles is:" + miles1);
