@@ -110,3 +110,10 @@
 // } else{
 //     console.log("The number is odd");
 // }
+
+// Using ternary operator
+let number = 9;
+
+let result = number % 2 == 0 ? "The number is even" : "The number is odd";
+
+console.log(result);
