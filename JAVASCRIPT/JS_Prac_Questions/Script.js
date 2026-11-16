@@ -70,3 +70,10 @@
 // let miles1 = kilometer / 1.609344;
 
 // console.log("The value of kilometer in miles is:" + miles1);
+
+// Coversion of Celcius to Fahrenheit
+let celcius = parseFloat(prompt("Enter the celcius value:"));
+
+let fahrenheit = (celcius * 9/5) + 32;
+
+console.log("The Value of converting Celcius to Fahrenheit is: " + fahrenheit);
