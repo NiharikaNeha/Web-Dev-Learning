@@ -98,6 +98,6 @@
 // };
 
 // Generate a random number between Math.random()
-let num = Math.random()
+// let num = Math.random()
 
-console.log("The random generated numbers are: " + num);
+// console.log("The random generated numbers are: " + num);
