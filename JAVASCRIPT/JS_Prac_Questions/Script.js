@@ -65,3 +65,8 @@ let kilometer = parseFloat(prompt("Enter your Kilometer value:"));
 let miles = kilometer * 0.621371;
 
 console.log("The value of kilometer in miles is:" + miles);
+
+//step - 2: by dividling
+let miles1 = kilometer / 1.609344;
+
+console.log("The value of kilometer in miles is:" + miles1);
