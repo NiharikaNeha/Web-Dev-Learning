@@ -84,3 +84,15 @@
 // let celcius = (fahrenheit - 32) * 5/9 ;
 
 // console.log("The Value of converting Fahrenheit to Celcius  is: " + celcius);
+
+// Checking if the number is positive, negative or zero
+
+let number = -10;
+
+if (number > 0) {
+    console.log("The number is positive");
+} else if (number < 0) {
+    console.log("The number is negative");
+} else {
+    console.log("The number is zero");
+};
