@@ -56,3 +56,12 @@
 
 // console.log("The values of a and b before swapping are: " + b + ", " + a);
 // console.log("The values of a and b after swapping are: " + a + ", " + b);
+
+// Converting Kilometer to Miles
+
+let kilometer = parseFloat(prompt("Enter your Kilometer value:"));
+
+// step - 1: by multiplying
+let miles = kilometer * 0.621371;
+
+console.log("The value of kilometer in miles is:" + miles);
