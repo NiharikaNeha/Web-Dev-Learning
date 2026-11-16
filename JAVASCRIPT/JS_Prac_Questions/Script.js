@@ -46,13 +46,13 @@
 // console.log("The values of a and b after swapping are: " + a + ", " + b);
 
 // Swapping two variables without using temporary variable  
-let a = 5;
-let b = 10;
+// let a = 5;
+// let b = 10;
 
 // performing swapping
-a = a + b;
-b = a - b;
-a = a - b;
+// a = a + b;
+// b = a - b;
+// a = a - b;
 
-console.log("The values of a and b before swapping are: " + b + ", " + a);
-console.log("The values of a and b after swapping are: " + a + ", " + b);
+// console.log("The values of a and b before swapping are: " + b + ", " + a);
+// console.log("The values of a and b after swapping are: " + a + ", " + b);
