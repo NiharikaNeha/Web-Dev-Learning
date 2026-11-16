@@ -79,8 +79,8 @@
 // console.log("The Value of converting Celcius to Fahrenheit is: " + fahrenheit);
 
 // Cnversion of Fahrenheit to Celcius
-let fahrenheit = parseFloat(prompt("Enter the Fahrenheit value:"));
+// let fahrenheit = parseFloat(prompt("Enter the Fahrenheit value:"));
 
-let celcius = (fahrenheit - 32) * 5/9 ;
+// let celcius = (fahrenheit - 32) * 5/9 ;
 
-console.log("The Value of converting Fahrenheit to Celcius  is: " + celcius);
+// console.log("The Value of converting Fahrenheit to Celcius  is: " + celcius);
